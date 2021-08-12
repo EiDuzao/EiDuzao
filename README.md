@@ -1,8 +1,7 @@
 ### Olá eu sou o Luis Eduardo
 
 
-- 🔭 Hoje trabalho com Front End
-- 🌱 Estudando JavaScript
+- 🌱 Estudando Python / JavaScript
 
 ##
 
