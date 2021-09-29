@@ -1,7 +1,7 @@
 ### Olá eu sou o Luis Eduardo
 
 
-- 🌱 Estudando Python / JavaScript
+- 🌱 Estudando HTML / CSS / JavaScript
 
 ##
 
