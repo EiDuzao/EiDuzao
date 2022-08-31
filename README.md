@@ -1,4 +1,4 @@
-### Olá eu sou o Luis Eduardo
+# Fala galera! Meu nome é Luis Eduardo 👩‍💻
 
 
 - 🌱 Estudando HTML / CSS / JavaScript
